@@ -28,7 +28,7 @@ var user_agents = require('./useragents.js')
 
 var default_headers = {
     'Accept': '*/*'
-  , 'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3'
+//  , 'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3'
   , 'Accept-Language': 'en-US,en;q=0.8'
 };
 
